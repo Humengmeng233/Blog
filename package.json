@@ -1,0 +1,32 @@
+{
+  "name": "hmm",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "a template project with plume theme",
+  "packageManager": "pnpm@10.13.1",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild"
+    ]
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "^20.6.0 || >=22.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.24",
+    "vuepress": "2.0.0-rc.24",
+    "vuepress-theme-plume": "1.0.0-rc.158",
+    "http-server": "^14.1.1",
+    "vue": "^3.5.17",
+    "typescript": "^5.8.3"
+  }
+}
