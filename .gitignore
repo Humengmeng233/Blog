@@ -1,8 +1,9 @@
 **/node_modules
-
+.obsidian
 docs/.vuepress/.cache
 docs/.vuepress/.temp
 docs/.vuepress/dist
-
+.idea
+*.iml
 .DS_Store
 *.log
