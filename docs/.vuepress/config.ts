@@ -20,12 +20,12 @@ export default defineUserConfig({
     '/': {
       title: 'HMM',
       lang: 'zh-CN',
-      description: 'a template project with plume theme',
+      description: '一个基于vuepress的个人博客（新手很菜😥）',
     },
     '/en/': {
       title: 'HMM',
       lang: 'en-US',
-      description: 'a template project with plume theme',
+      description: 'a personal blog based on vuepress🙀',
     },
   },
 

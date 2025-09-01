@@ -60,7 +60,7 @@ export default defineThemeConfig({
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
         name: 'HMM',
-        description: 'a template project with plume theme',
+        description: '一个基于vuepress的个人博客（新手很菜😥）',
         // circle: true,
         // location: '',
         // organization: '',
@@ -87,7 +87,7 @@ export default defineThemeConfig({
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
         name: 'HMM',
-        description: 'a template project with plume theme',
+        description: 'a personal blog based on vuepress🙀',
         // circle: true,
         // location: '',
         // organization: '',

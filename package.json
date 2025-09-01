@@ -2,7 +2,7 @@
   "name": "hmm",
   "type": "module",
   "version": "1.0.0",
-  "description": "a template project with plume theme",
+  "description": "一个基于vuepress的个人博客（新手很菜😥）",
   "packageManager": "pnpm@10.13.1",
   "pnpm": {
     "onlyBuiltDependencies": [
