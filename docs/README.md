@@ -7,7 +7,7 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: A Personal Blog Of Theme Plume
+      name: 学习、生活记录喵
       tagline: 喵喵喵
       text: 一个基于vuepress的个人博客🤪
       actions:
