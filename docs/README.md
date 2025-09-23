@@ -7,8 +7,8 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: 学习、生活记录喵
-      tagline: 喵喵喵
+      name: Good Good Study
+      tagline: UPUPUP
       text: 一个基于vuepress的个人博客🤪
       actions:
         -
